@@ -1,14 +1,24 @@
-GetNewFactIntent a fact
-GetNewFactIntent a space fact
-GetNewFactIntent tell me a fact
-GetNewFactIntent tell me a space fact
-GetNewFactIntent give me a fact
-GetNewFactIntent give me a space fact
-GetNewFactIntent tell me trivia
-GetNewFactIntent tell me a space trivia
+GetNewFactIntent a law
+GetNewFactIntent state law
+GetNewFactIntent a state fact
+GetNewFactIntent a state law fact
+GetNewFactIntent tell me a law
+GetNewFactIntent tell me a state law
+GetNewFactIntent tell me a state fact
+GetNewFactIntent tell me a state law fact
+GetNewFactIntent give me a law
+GetNewFactIntent give me a law fact
+GetNewFactIntent give me a state fact
+GetNewFactIntent give me a state law
+GetNewFactIntent give me a state law fact
+GetNewFactIntent tell me a state law trivia
+GetNewFactIntent tell me a state trivia
+GetNewFactIntent tell me a law trivia
 GetNewFactIntent give me trivia
-GetNewFactIntent give me a space trivia
+GetNewFactIntent give me a state trivia
 GetNewFactIntent give me some information
-GetNewFactIntent give me some space information
+GetNewFactIntent give me some state information
+GetNewFactIntent give me some law information
+GetNewFactIntent give me some state law information
 GetNewFactIntent tell me something
 GetNewFactIntent give me something

@@ -1,7 +1,7 @@
 {
-  "name": "skill-sample-nodejs-fact",
+  "name": "crazyStateLaws",
   "version": "1.0.0",
-  "description": "A simple fact skill.",
+  "description": "A simple fact skill of crazy state laws in the United States.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,11 +9,15 @@
   "keywords": [
     "alexa",
     "skill",
-    "fact"
+    "fact",
+    "laws",
+    "dumb",
+    "crazy",
+    "absurd"
   ],
-  "author": "Amazon.com",
+  "author": "Valorie Dodge",
   "license": "Apache-2.0",
   "dependencies": {
-    "alexa-sdk": "^1.0.0"
+    "alexa-sdk": "^1.0.3"
   }
 }
